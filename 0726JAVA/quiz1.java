@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class quiz1 {
+public class Quiz1 {
 
     // 준비된 상자에 카드를 한 장씩 넣고, 상자를 무작위로 섞어 일렬로 나열합니다. \
     // -> 초반 입력값 int[] cards = { 8, 6, 3, 7, 2, 5, 1, 4 }
